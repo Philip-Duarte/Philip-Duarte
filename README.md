@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philip-duarte" alt="philip-duarte" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando na **Bit Tech®**
-
-- 🌱 Estou aprendendo no momento **.NET core, Kotlin, C#, Wordpress, AWS Cloud Service**
+- 🌱 Estou aprendendo no momento **.NET core, C#, Wordpress, AWS Cloud Service**
 
 - 👨‍💻 Todos meus projetos estão disponiveis aqui [github.com/Philip-Duarte](github.com/Philip-Duarte)
 
